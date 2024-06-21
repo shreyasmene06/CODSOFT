@@ -32,7 +32,7 @@ def Edit_task():
         print("Task Editted Successfully !")
 
 def View_task():
-  print("=====TASKS=====")
+  print("\n=====TASKS=====")
   if len(tasks)==0:
     print("No Tasks Found")
   else:
